@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Addax101.
-- 👀 I’m interested in DevOps and Artificial Intelligence .
+- 👀 I’m interested in DevOps, DevSec and Artificial Intelligence .
 - 🌱 I’m currently learning Quality Assurance.
 - 💞️ I’m looking to collaborate on Artificial intelligence projects with UX. 
 - 📫 How to reach me on twitter ✅ @byansi_anthony. 
