@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Addax101. A cloud Architect.
-- 👀 I’m interested in DevOps, DevSec and Artificial Intelligence .
+- 👀 I’m interested in **DevOps** , DevSec and Artificial Intelligence .
 - 🌱 I’m currently learning Quality Assurance.
 - 💞️ I’m looking to collaborate on Artificial intelligence projects with UX. 
 - I I love Opensource. 
