@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anthony. A cloud Developer advocate.
-- 👀 I’m interested in **DevOps** , DevSec and Artificial Intelligence .
+- 👀 I’m interested in **DevOps** , **DevSec** and Artificial Intelligence .
 - 🌱 I’m currently teaming up in  **Quality Assurance**.
 - 💞️ I’m looking to collaborate on Artificial intelligence projects with UX. 
 - 💞️ I love Open-source and my DMs are open for any project. 
