@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anthony. A cloud Developer advocate.
+- 👋 Hi, I’m @Anthony, A cloud Developer advocate.
 - 👀 I’m interested in **DevOps** , **DevSec** and Artificial Intelligence .
 - 🌱 I’m  currently teaming up in  **Cloud projects**.
 - 💞️ I’m looking to collaborate on DevOps with Cloud Engineering . 
